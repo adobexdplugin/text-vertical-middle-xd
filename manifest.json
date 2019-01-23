@@ -1,0 +1,20 @@
+{
+  "name" : "Text Vertical Middle",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "13.0.0"
+  },
+  "description" : "This plugin allows you to align text vertical middle. Free yourself from manually aligning and focus creative works.",
+  "id" : "d51da027",
+  "icons" : [ {
+    "path" : "images/icon.png",
+    "width" : 96,
+    "height" : 96
+  } ],
+  "uiEntryPoints" : [ {
+    "label" : "Text Vertical Middle",
+    "type" : "menu",
+    "commandId" : "myPluginCommand"
+  } ],
+  "version" : "1.0.0"
+}
